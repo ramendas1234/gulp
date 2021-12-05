@@ -1,4 +1,5 @@
 var gulp = require( 'gulp' );
+var rename = require( 'gulp-rename' );
 
 var styleSRC = './src/scss/style.css';
 var styleDIST = './dist/css/'
